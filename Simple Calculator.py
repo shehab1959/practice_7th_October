@@ -1,0 +1,10 @@
+a = float(input("Enter 1st number: "))
+b = float(input("Enter 2nd number: "))
+
+print()
+print("Result")
+print("="*30)
+print(f"Addition = {a + b}")
+print(f"Subtration = {a - b}")
+print(f"Multiplication = {a * b}")
+print(f"Division = {a / b}")
